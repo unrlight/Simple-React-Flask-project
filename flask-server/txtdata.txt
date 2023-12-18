@@ -1,0 +1,1 @@
+{"user": [{"firstName": "\u0444\u0432\u044b\u0444\u044b\u0432\u044b\u0444\u0432\u044b\u0444\u0432", "lastName": "lname", "email": "dwad@wd.ac", "midname": "dawd", "phonenumber": "awd", "textinfo": "dwad", "contactme": "awd", "dropdown": ""}]}
